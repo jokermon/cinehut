@@ -50,15 +50,7 @@ https://t.me/joinchat/V2gc9SVAlUOZVxUy</b>
 <b><a href="https://t.me/cinehut">cinemahut</a></b>
 """
     
-    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
-    
-<b>➥ 😎Creator</b> : <b>@AlbertEinstein_TG</b> 
+    ABOUT_TEXT = """
+NOTHINNG MORE AND NOTHING ABOUT ME... 
 
-<b>➥ 👨‍💻Editor</b> : <b>@Angelamego</b>
-
-<b>➥ 🗣️Language</b> : <b>Python3</b>
-
-<b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
-
-<b>➥ 📖Source Code</b> : <b><a href="https://t.me/joinchat/V2gc9SVAlUOZVxUy">💥Click Me</a></b>
 """
