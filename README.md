@@ -37,7 +37,7 @@
 
 ### Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/Pro-Auto-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jokermon/oho)
 
 
 ## Configs
@@ -52,7 +52,7 @@ DB_URI :- [![DB_URI](https://img.shields.io/badge/Click-Here-red?style=flat&logo
 
 MT_UPDATE_CHANNEL :- Channel UserName (@ With Out)
 
-USER_SESSION :- [![USER_SESSION](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://repl.it/@prgofficial/String-Gen)
+USER_SESSION :- [![USER_SESSION](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://replit.com/@MRJINNOFTG/TG-SESSION)
 
-Channel id :- [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/ChannelIDHEXbot)
+Channel id :- [![MoTechYT](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://t.me/TRUEIDBOT)
 
