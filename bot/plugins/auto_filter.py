@@ -124,9 +124,7 @@ async def auto_filter(bot, update):
             InlineKeyboardButton(f_size, url=file_link)
         ])
                 
-                    
-                
-     else:
+    else:
         return # return if no files found for that query
     
 
