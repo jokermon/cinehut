@@ -12,7 +12,7 @@ db = Database()
 
 @Client.on_message(filters.command(["start"]) & filters.private, group=1)
 async def start(bot, update):
-    update_channel = "@ch_hindi"
+    update_channel = "@cv_updatez"
     if update_channel:
         try:
             user = await bot.get_chat_member(update_channel, update.chat.id)
@@ -67,7 +67,7 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('🗣️𝙂𝙍𝙊𝙐𝙋', url='https://t.me/cv_group1'),
-        InlineKeyboardButton('📺𝘾𝙃𝘼𝙉𝙉𝙀𝙇', url ='https://t.me/ch_hindi')
+        InlineKeyboardButton('📺𝘾𝙃𝘼𝙉𝙉𝙀𝙇', url ='https://t.me/cv_updatez')
     ],[
         InlineKeyboardButton('👨‍🔧𝘾𝙍𝙀𝘼𝙏𝙊𝙍', url='https://t.me/Cv_groupAdmin2')
     ],[
