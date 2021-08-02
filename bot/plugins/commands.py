@@ -12,7 +12,7 @@ db = Database()
 
 @Client.on_message(filters.command(["start"]) & filters.private, group=1)
 async def start(bot, update):
-    update_channel = "@cv_updatez"
+    update_channel = "@kuruthi_amzonprime"
     if update_channel:
         try:
             user = await bot.get_chat_member(update_channel, update.chat.id)
@@ -24,7 +24,7 @@ async def start(bot, update):
             await update.reply_text(
                 text="🔊 𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗠𝗮𝗶𝗻 𝗰𝗵𝗮𝗻𝗻𝗲𝗹 🤭  നിങ്ങൾക് സിനിമകൾ വെന്നോ? അതിനായി അത്യം ങ്ങളുടെ മെയിൻ ചാനലിൽ ജോയിൻ ചെയ്യണം... 😁  Join ചെയതത്തിനു ശേഷം വീണ്ടും ബോട്ട് /start ആക്കൂ.😁 </b>",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text=" 🔰JOIN OUR CHANNEL🔰 ", url=f"https://t.me/cv_updatez")]
+                    [ InlineKeyboardButton(text=" 🔰JOIN OUR CHANNEL🔰 ", url=f"https://t.me/kuruthi_amzonprime")]
               ])
             )
             return
@@ -54,7 +54,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔶New Movies🔶', url="https://t.me/new_movie_z"
+                                    '🔶New Movies🔶', url="https://t.me/kuruthi_amzonprime"
                                 )
                         ]
                     ]
@@ -66,10 +66,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('🗣️𝙂𝙍𝙊𝙐𝙋', url='https://t.me/cv_group1'),
-        InlineKeyboardButton('📺𝘾𝙃𝘼𝙉𝙉𝙀𝙇', url ='https://t.me/cv_updatez')
+        InlineKeyboardButton('🗣️𝙂𝙍𝙊𝙐𝙋', url='https://t.me/cinehut'),
+        InlineKeyboardButton('📺𝘾𝙃𝘼𝙉𝙉𝙀𝙇', url ='https://t.me/kuruthi_amzonprime')
     ],[
-        InlineKeyboardButton('👨‍🔧𝘾𝙍𝙀𝘼𝙏𝙊𝙍', url='https://t.me/Cv_groupAdmin2')
+        InlineKeyboardButton('👨‍🔧𝘾𝙍𝙀𝘼𝙏𝙊𝙍', url='https://t.me/cinehut')
     ],[
         InlineKeyboardButton('⚠️ Help', callback_data="help")
     ]]
