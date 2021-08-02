@@ -1642,7 +1642,7 @@ async def callback_data(bot, update: CallbackQuery):
             InlineKeyboardButton('Group', url='https://t.me/cinehut'),
             InlineKeyboardButton('channel', url ='https://t.me/ch_hindi')
         ],[
-            InlineKeyboardButton('Source code', url='https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2')
+            InlineKeyboardButton('Source code', url='https://t.me/kuruthi_amzonprime')
         ],[
             InlineKeyboardButton('Help ⚙', callback_data="help")
         ]]
