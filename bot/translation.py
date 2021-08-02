@@ -8,12 +8,12 @@ class Translation(object):
 
 <b>Am Just A Pro Auto Filter Bot....😉</b>
 
-<b>Iam official bot of group @cv_group1🔥🔥😝</b>
+<b>Iam official bot of group @cinehut🔥🔥😝</b>
 
 <b>ഇനി എന്തോ നോക്കി ഇരികുവ മൂവി വേണേ ഗ്രൂപ്പിൽ കേറി ചോയ്ക്ക് @cv_group1</b>
 
 <b>എന്തായാലും വന്നേ അല്ലെ ചാനലിൽ കേറി ജോയിൻ ആയിക്കോ 👇👇
-https://t.me/joinchat/n2_vPoGuwig3ZGY1</b>
+https://t.me/joinchat/XF_MY9V2rgs1ZTU1</b>
 
 <b>Press /help to know about available commands🤪</b>"""    
     
